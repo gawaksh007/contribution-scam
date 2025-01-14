@@ -7,8 +7,8 @@ A Python script that automatically increments a number in a text file, commits t
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Shogun89/fancy_job
-cd fancy_job
+git clone https://github.com/gawaksh007/contribution-scam.git
+cd contribution-scam
 ```
 
 2.  Run the script
